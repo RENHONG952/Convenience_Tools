@@ -1,10 +1,10 @@
 # 🔧 日常作業的方便工具
 ## 🏠 生活應用
 ### bill_calculator.py 帳單計算
-### text_counter.py 文字數量統計
 ## 📁 檔案管理
 ### file_organizer.py 檔案分類
 ### folder_builder.py 資料夾生成
+### text_counter.py 文字數量統計
 ## 🛡️ 資安實作
 ### brute_force_attacker.py 暴力破解攻擊
 ### nmap_scanner.py 系統掃描
