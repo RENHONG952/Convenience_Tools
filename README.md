@@ -1,6 +1,7 @@
 # 🔧 日常作業的方便工具
 ## 🏠 生活應用
 ### bill_calculator.py 帳單計算
+### repetition_date_formulator.py 重複日期制定
 ## 📁 檔案管理
 ### file_organizer.py 檔案分類
 ### folder_builder.py 資料夾生成
